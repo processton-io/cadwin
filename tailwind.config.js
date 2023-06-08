@@ -1,3 +1,5 @@
+const colors = require('./src/settings/colors.json')
+
 module.exports = {
   darkMode: 'class',
   content: ['./src/**/*.{js,jsx,ts,tsx}', 'node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}'],
@@ -5,17 +7,17 @@ module.exports = {
     extend: {
       colors: {
         primary: {"50":"#eff6ff","100":"#dbeafe","200":"#bfdbfe","300":"#93c5fd","400":"#60a5fa","500":"#3b82f6","600":"#2563eb","700":"#1d4ed8","800":"#1e40af","900":"#1e3a8a"},
-        headerBg: "#FFFFFF",
-        headerTextDefaultColor: "#000000",
-        headerTextHoverColor: "#3b82f6",
-        headerTextDefaultBG: "#000000",
-        headerTextHoverBG: "#3b82f6",
+        headerBg: colors.header.bg,
+        headerTextDefaultColor: colors.header.text_default_color,
+        headerTextHoverColor: colors.header.text_hover_color,
+        headerTextDefaultBG: colors.header.text_default_bg,
+        headerTextHoverBG: colors.header.text_hover_bg,
 
-        headerSocialBg: "#000000",
-        headerSocialTextDefaultColor: "#FFFFFF",
-        headerSocialTextHoverColor: "#CCCCCC",
-        headerSocialTextDefaultBG: "#000000",
-        headerSocialTextHoverBG: "#3b82f6",
+        headerSocialBg: colors.header.social_bg,
+        headerSocialTextDefaultColor: colors.header.social_text_default_color,
+        headerSocialTextHoverColor: colors.header.social_text_hover_color,
+        headerSocialTextDefaultBG: colors.header.social_text_default_bg,
+        headerSocialTextHoverBG: colors.header.social_text_hover_bg,
       }
     },
     fontFamily: {

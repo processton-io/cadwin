@@ -47,6 +47,33 @@ const collection = {
         navigationField()],
     },
     {
+      label: 'Colors',
+      name: 'colors',
+      file: 'src/settings/colors.json',
+      editor: {
+        preview: false,
+      },
+      fields: [
+        {
+          label: 'header',
+          name: 'header',
+          widget: 'object',
+          fields: [
+            { label: 'Bg Color', name: 'bg', default: '#FFFFFF', widget : 'color', required: true },
+            { label: 'Text Default Color', name: 'text_default_color', default: '#000000', widget : 'color', required: true },
+            { label: 'Text Default Color', name: 'text_hover_color', default: '#3b82f6', widget : 'color', required: true },
+            { label: 'Text Default BG', name: 'text_default_bg', default: '#000000', widget : 'color', required: true },
+            { label: 'Text Default BG', name: 'text_hover_bg', default: '#3b82f6', widget : 'color', required: true },
+            { label: 'Social Bar BG', name: 'social_bg', default: '#000000', widget : 'color', required: true },
+            { label: 'Social Bar Text Default Color', name: 'social_text_default_color', default: '#FFFFFF', widget : 'color', required: true },
+            { label: 'Social Bar Text Default Color', name: 'social_text_hover_color', default: '#CCCCCC', widget : 'color', required: true },
+            { label: 'Social Bar Text Default BG', name: 'social_text_default_bg', default: '#000000', widget : 'color', required: true },
+            { label: 'Social Bar Text Default BG', name: 'social_text_hover_bg', default: '#3b82f6', widget : 'color', required: true },
+          ],
+        },
+      ],
+    },
+    {
       label: 'Site Metadata & SEO Settings',
       name: 'seo',
       file: 'src/settings/seo.json',
