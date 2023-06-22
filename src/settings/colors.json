@@ -1,33 +1,33 @@
 {
   "header": {
     "bg": "#FFFFFF",
-    "text_title_color": "#000000",
-    "text_sub_title_color": "#000000",
-    "text_default_color": "#000000",
-    "text_hover_color": "#AAAAAA",
+    "text_title_color": "#a45e4d",
+    "text_sub_title_color": "#a45e4d",
+    "text_default_color": "#a45e4d",
+    "text_hover_color": "#a45e4d",
     "text_default_bg": "#FFFFFF",
     "text_hover_bg": "#FFFFFF",
-    "social_bg": "#000000",
+    "social_bg": "#a45e4d",
     "social_text_default_color": "#FFFFFF",
-    "social_text_hover_color": "#AAAAAA",
-    "social_text_default_bg": "#000000",
-    "social_text_hover_bg": "#000000"
+    "social_text_hover_color": "#FFFFFF",
+    "social_text_default_bg": "#a45e4d",
+    "social_text_hover_bg": "#a45e4d"
   },
   "button": {
     "primary": {
-      "bg": "#000000",
-      "hover_bg": "#CCCCCC",
+      "bg": "#a45e4d",
+      "hover_bg": "#a45e4d",
       "default_color": "#FFFFFF",
-      "hover_color": "#000000",
-      "ring": "#000000",
-      "hover_ring": "#000000"
+      "hover_color": "#FCFCFC",
+      "ring": "#a45e4d",
+      "hover_ring": "#a45e4d"
     },
     "secondary": {
       "bg": "#FFFFFF",
       "hover_bg": "#CCCCCC",
       "default_color": "#000000",
       "hover_color": "#000000",
-      "ring": "#CCCCCC",
+      "ring": "#000000",
       "hover_ring": "#000000"
     }
   },

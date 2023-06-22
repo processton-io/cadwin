@@ -6,19 +6,29 @@
       "type": "default"
     },
     {
-      "name": "Get Started",
-      "permalink": "https://github.com/processton-io/edge-base",
+      "name": "2D Drafting",
+      "permalink": "/2d-drafting",
       "type": "default"
     },
     {
-      "name": "Sponsored By",
-      "permalink": "/sponsored-by",
+      "name": "3D Models",
+      "permalink": "/3d-models",
+      "type": "default"
+    },
+    {
+      "name": "Projects",
+      "permalink": "/projects",
+      "type": "default"
+    },
+    {
+      "name": "Contact Us",
+      "permalink": "/contact us",
       "type": "default"
     }
   ],
-  "title": "Edge Base",
+  "title": "Cadwin",
   "photo": {
     "image": "/img/edge-base-logo.png",
-    "alt": "edge-base-logo"
+    "alt": "cadwin-logo"
   }
 }

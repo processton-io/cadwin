@@ -2,49 +2,43 @@
   "social_links": [
     {
       "show_in_header": true,
-      "permalink": "https://www.facebook.com",
+      "permalink": "https://www.facebook.com/people/Bidwin-Estimating-Services/100066718531741/",
       "platform": "facebook",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.twitter.com",
-      "platform": "twitter",
-      "show_in_footer": false
-    },
-    {
-      "show_in_header": true,
-      "permalink": "https://www.linkedin.com",
+      "permalink": "https://www.linkedin.com/in/bidwin-estimating-services-51b238102/",
       "platform": "linkedin",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.youtube.com",
+      "permalink": "https://www.youtube.com/channel/UC9L_9vX7p-c7Rof-3UnuPZQ",
       "platform": "youtube",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.instagram.com",
+      "permalink": "https://www.bidwin.com.au/",
       "platform": "instagram",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "lorem@ipsom.com",
+      "permalink": "info@cadwin.com",
       "platform": "email",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "+00 000 0000000",
+      "permalink": "02 7901 2717",
       "platform": "phone",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "09:00 AM to 10:00 PM",
+      "permalink": "Monday to Friday: 8:30 AM to 5:30 PM",
       "platform": "calendar",
       "show_in_footer": false
     }
