@@ -12,15 +12,18 @@ blocks:
       - hero:
           variant: default
           height: full
-          title: Start Building your website
-          content: Enable Identity and Git hub gateway in you app setting at netlify, then click button below to continue..
+          title: Transforming Ideas into Impeccable Designs
+          content: "Expert Drafting Services: Architectural, Mechanical, and Electrical
+            Design Solutions"
           buttons:
             - button:
                 variant: button
-                content: Get Started
-                url: /admin
+                content: Contact us now
+                url: /contact-us
+          hero_bg_photo:
+            hero_bg_image: /img/bpce-image-12.jpg
     variant: default
-    title: For Your Next Generation Website
+    title: Hero 1
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
