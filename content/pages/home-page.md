@@ -24,6 +24,16 @@ blocks:
             hero_bg_image: /img/bpce-image-12.jpg
     variant: default
     title: Hero 1
+  - type: perks
+    variant: default
+    title: " Our drafting & BIM modelling expertise"
+    columns:
+      - title: Architectural Drafting
+        content: Transforming Visions into Masterful Blueprints
+      - title: Structural Drafting
+        content: Shaping Robust Frameworks
+      - title: Civil Infrastructure Drafting
+        content: Enabling Infrastructure Development
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
