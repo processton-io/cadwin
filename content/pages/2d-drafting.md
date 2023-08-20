@@ -21,7 +21,7 @@ blocks:
           * Electrical   
           * Fire Services
           * Landscape
-    title: Temp
+    title: ""
   - type: content
     variant: left-hand
     content: >-
